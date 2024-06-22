@@ -1,7 +1,6 @@
 Ejemplo 
-esta es la primera linea del archivo
+esta es la primera linea
 esta es la segunda linea
-esta es la terceraaaa linea
-acabo de agregar una cuartaaa linea
+esta es la tercera linea
 
-justo vamos a crear una nueva linea
+mañana nos enfocaremos en el clima
